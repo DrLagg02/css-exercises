@@ -3,3 +3,8 @@ p {
     background-color: RGB(255,208,208);
     font-family: "Verdana" "DejaVuSans", sans-serif;
 }
+
+#number2 {
+    color: RGB(0,0,250);
+    font-size: 36px
+}
